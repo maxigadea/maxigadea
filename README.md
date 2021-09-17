@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **FullStack Dev**
 
-- 👨‍💻 All of my projects are available at [In process.](In process.)
+- 👨‍💻 All of my projects are available at [In process.]
 
 - 💬 Ask me about **React, design, gaming, front-end.**
 
