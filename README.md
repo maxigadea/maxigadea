@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Maximiliano</h1>
 <h3 align="center">A passionate fullstack developer from Argentina</h3>
 
-- 🔭 I’m currently working on **Freelance**
+- 🔭 I’m currently  **Open to work**
 
 - 🌱 I’m currently learning **FullStack Dev**
 
-- 👨‍💻 All of my projects are available at [In process.]
+- 👨‍💻 All of my projects are available at gitHub
 
 - 💬 Ask me about **React, design, gaming, front-end.**
 
