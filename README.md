@@ -1,4 +1,4 @@
-### Hola 👋, my nombre es Maximiliano Agustin Gadea.
+### Hola 👋, mi nombre es Maximiliano Agustin Gadea.
 #### Soy un apasionado FullStack Developer.
 ![I am FullStack Dev](https://miro.medium.com/max/2000/1*Tm6KcKOf_T0xgTZFuZN3sw.jpeg)
 
