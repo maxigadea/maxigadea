@@ -1,5 +1,5 @@
-### Hola 👋, my name is Maximiliano
-#### I am FullStack Dev
+### Hola 👋, my nombre es Maximiliano
+#### Soy un apasionado FullStack Developer
 ![I am FullStack Dev](https://miro.medium.com/max/2000/1*Tm6KcKOf_T0xgTZFuZN3sw.jpeg)
 
 Estudié tres años economía en la facultad Nacional de Misiones, mi pasión por la tecnología me llevo a estudiar programación de manera autodidacta, realize una gran variedad de cursos de programación web full stack, y tambien una formación en un bootcamp de programación.
