@@ -9,7 +9,7 @@ Habilidades:  / REACT / JS / HTML / CSS / NodeJs / Express / PostgreSQL / MongoD
 - 🔭 Estoy trabajando en SoyHenry 
 - 🌱 Estoy aprendiendo React, NextJs, NodeJs 
 - 📫 Cómo contactarme: maxigadea1998@gmail.com 
-- ⚡ Dato curioso: Me gustan los videojuegos y la tecnología 
+- ⚡ Dato curioso: Me gusta la música electronica y la tecnología 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/maxigadea)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/maximiliano1998/)  
