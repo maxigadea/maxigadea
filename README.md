@@ -7,7 +7,7 @@ Estudié tres años economía en la facultad Nacional de Misiones, mi pasión po
 Habilidades:  / REACT / JS / HTML / CSS / NodeJs / Express / PostgreSQL / MongoDB / entre otros...
 
 - 🔭 Estoy trabajando en SoyHenry 
-- 🌱 Estoy aprendiendo React, NextJs, NodeJs 
+- 🌱 Estoy aprendiendo Typescript
 - 📫 Cómo contactarme: maxigadea1998@gmail.com 
 - ⚡ Dato curioso: Me gusta la música electronica y la tecnología 
 
