@@ -1,6 +1,6 @@
 # Maximiliano Agustín Gadea
 
-![Full Stack Developer](https://miro.medium.com/max/2000/1*Tm6KcKOf_T0xgTZFuZN3sw.jpeg)
+![Full Stack Developer]
 
 Soy un **Desarrollador Full Stack** con experiencia en la creación de aplicaciones web y soluciones blockchain. Mi enfoque está en la construcción de interfaces intuitivas, desarrollo de software escalable y la integración de tecnologías descentralizadas.
 
